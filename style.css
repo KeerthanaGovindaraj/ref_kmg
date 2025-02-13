@@ -301,6 +301,7 @@ html, body {
         transform: none;
         text-align: justify;
     }
+    
 }
 
 /* Responsive for mobile */
@@ -327,8 +328,8 @@ html, body {
         margin-left: 5px;
         text-align: justify;
     }
-    .content2 p{
-        font-size:15px;
+    .content2{
+        font-size: 15px;
     }
 }
 
