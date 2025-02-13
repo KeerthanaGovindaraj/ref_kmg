@@ -327,6 +327,9 @@ html, body {
         margin-left: 5px;
         text-align: justify;
     }
+    .content2 p{
+        font-size:15px;
+    }
 }
 
 /* fourth */
@@ -955,6 +958,6 @@ button:hover {
 }
 @media (max-width: 768px) {
     .footer{
-        font-size: 14px;
+        font-size: 12px;
     }
 }
